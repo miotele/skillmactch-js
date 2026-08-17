@@ -26,3 +26,9 @@ Reduce melhor vaga
 Apareceu em Promise
 Cliente: computador ,navegador,aplicação>>faz requisição >>Servidor:processa dados ,banco de dados>>volta resposta para >>Cliente
 
+link para o video
+https://youtu.be/Ntm4s28GICw
+
+link para kanban
+https://picayune-pull-1a2.notion.site/Kanban-3bfe3af2a1cf801f8be4e990f6297f16
+
