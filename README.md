@@ -24,5 +24,5 @@ Every validação da vaga
 Reduce melhor vaga
 
 Apareceu em Promise
-Cliente:computador ,navegador,aplicação>>faz requisição >>Servidor:processa dados ,banco de dados>>volta resposta para >>Cliente
+Cliente: computador ,navegador,aplicação>>faz requisição >>Servidor:processa dados ,banco de dados>>volta resposta para >>Cliente
 
